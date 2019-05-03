@@ -1,7 +1,7 @@
 .. image:: https://img.shields.io/badge/sitcomtn--001-lsst.io-brightgreen.svg
    :target: https://sitcomtn-001.lsst.io
-.. image:: https://travis-ci.org/lsst-sitcom/sitcomtn-001.svg
-   :target: https://travis-ci.org/lsst-sitcom/sitcomtn-001
+.. image:: https://travis-ci.com/lsst-sitcom/sitcomtn-001.svg
+   :target: https://travis-ci.com/lsst-sitcom/sitcomtn-001
 ..
   Uncomment this section and modify the DOI strings to include a Zenodo DOI badge in the README
   .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.#####.svg
@@ -21,7 +21,7 @@ Manual for documenting how to operate the Dome Seeing Monitor
 - Publication URL: https://sitcomtn-001.lsst.io
 - Alternative editions: https://sitcomtn-001.lsst.io/v
 - GitHub repository: https://github.com/lsst-sitcom/sitcomtn-001
-- Build system: https://travis-ci.org/lsst-sitcom/sitcomtn-001
+- Build system: https://travis-ci.com/lsst-sitcom/sitcomtn-001
 
 
 Build this technical note
