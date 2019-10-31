@@ -19,10 +19,16 @@ The UI is configured via one of the files contained in the `/dsm/dsm_ui_config` 
 Installing a New UI Version
 ---------------------------
 
-Should it become necessary to install a new version of the UI, first perform the steps :ref:`here <ui-env>` and then run the following.
+Should it become necessary to install a new version of the UI, you must switch into the `dsm` service account by first doing the following.
 
 .. prompt:: bash
 
-  pip install spot_motion_monitor
+  sudo su -s /bin/bash dsm
+
+Next, perform the steps to :ref:`setup the environment <ui-env>` and then run the following.
+
+.. prompt:: bash
+
+  pip install -U spot_motion_monitor
 
 If a new version is available, it will be installed.
