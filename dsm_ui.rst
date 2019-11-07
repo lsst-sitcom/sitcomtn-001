@@ -36,7 +36,7 @@ If a new version is available, it will be installed.
 Installing a Development Version
 ================================
 
-If it becomes necessary to install a development version of the UI, first go to where you want to clone the repository and execute the following.
+If it becomes necessary to install a development version of the UI, first create a directory called `git` in your home directory. Next, `cd` into that and execute the following.
 
 .. prompt:: bash
 
