@@ -10,7 +10,7 @@ The DSM laptop contains the software to run the monitoring user interface (UI). 
   mc
   conda activate dsm 
 
-The UI is configured via one of the files contained in the `/dsm/dsm_ui_config` directory. This directory is a clone of this `GitHub repository <https://github.com/lsst-com/dsm_ui_config>`_ and contains the standard configurations for the DSM. To run the default configuration of the UI, do the following from a terminal (after running the :ref:`steps above <ui-env>`.).
+The UI is configured via one of the files contained in the `/dsm/dsm_ui_config` directory. This directory is a clone of this `GitHub repository <https://github.com/lsst-sitcom/dsm_ui_config>`_ and contains the standard configurations for the DSM. To run the default configuration of the UI, do the following from a terminal (after running the :ref:`steps above <ui-env>`.).
 
 .. prompt:: bash
 
@@ -40,13 +40,13 @@ If it becomes necessary to install a development version of the UI, first create
 
 .. prompt:: bash
 
-  git clone https://github.com/lsst-com/spot_motion_monitor.git
+  git clone https://github.com/lsst-sitcom/spot_motion_monitor.git
 
 If you intend to commit changes back to the repository and have the privileges to do so, clone the repository this way.
 
 .. prompt:: bash
 
-  git clone git@github.com:lsst-com/spot_motion_monitor.git
+  git clone git@github.com:lsst-sitcom/spot_motion_monitor.git
 
 Next change into the directory of the clone and checkout the branch that you want to run. Example is shown below.
 
