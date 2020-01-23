@@ -1,5 +1,8 @@
-Using the Monitor UI
-====================
+Dome Seeing Monitor UI
+======================
+
+Using the UI
+------------
 
 The DSM laptop contains the software to run the monitoring user interface (UI). It is installed within a `miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ environment. To setup the environment for running the UI, perform the following from a terminal.
 
@@ -34,7 +37,7 @@ Next, perform the steps to :ref:`setup the environment <ui-env>` and then run th
 If a new version is available, it will be installed.
 
 Installing a Development Version
-================================
+--------------------------------
 
 If it becomes necessary to install a development version of the UI, first create a directory called `git` in your home directory. Next, `cd` into that and execute the following.
 

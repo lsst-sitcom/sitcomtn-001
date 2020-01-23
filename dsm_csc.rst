@@ -1,8 +1,11 @@
-Using the Dome Seeing Monitor CSC
+Dome Seeing Monitor CSC
 =================================
 
+Using the CSC
+-------------
+
 Startup CSC
------------
++++++++++++
 
 .. prompt:: bash
 
@@ -10,7 +13,7 @@ Startup CSC
   docker-compose up dsm1
 
 Shutdown CSC
-------------
+++++++++++++
 
 Following can be run from anywhere
 
