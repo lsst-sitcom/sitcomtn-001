@@ -5,8 +5,9 @@
 The LSST Dome Seeing Monitor
 ============================
 
-The LSST Dome Seeing Monitor (DSM) is an instrument for measuring the seeing within an enclosed environment, such as a telescope dome.
+The LSST Dome Seeing Monitor (DSM) is an instrument for measuring the seeing along a given line of sight.
 
+.. include:: dsm_qs.rst
 .. include:: dsm_ui.rst
 .. include:: dsm_csc.rst
 
